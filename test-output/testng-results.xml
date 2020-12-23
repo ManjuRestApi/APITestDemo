@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-23T19:04:20 IST" name="Default suite" finished-at="2020-12-23T19:04:26 IST" duration-ms="6614">
+    <groups>
+    </groups>
+    <test started-at="2020-12-23T19:04:20 IST" name="Default test" finished-at="2020-12-23T19:04:26 IST" duration-ms="6614">
+      <class name="ApiTest.ApiDemo.RestApiTests">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ApiTest.ApiDemo.RestApiTests@53aad5d5]" started-at="2020-12-23T19:04:20 IST" name="beforeClass" finished-at="2020-12-23T19:04:21 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="deleteDemo()[pri:0, instance:ApiTest.ApiDemo.RestApiTests@53aad5d5]" started-at="2020-12-23T19:04:21 IST" name="deleteDemo" finished-at="2020-12-23T19:04:24 IST" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDemo -->
+        <test-method signature="getDemo()[pri:0, instance:ApiTest.ApiDemo.RestApiTests@53aad5d5]" started-at="2020-12-23T19:04:24 IST" name="getDemo" finished-at="2020-12-23T19:04:25 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDemo -->
+        <test-method signature="postDemo()[pri:0, instance:ApiTest.ApiDemo.RestApiTests@53aad5d5]" started-at="2020-12-23T19:04:25 IST" name="postDemo" finished-at="2020-12-23T19:04:26 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDemo -->
+        <test-method signature="putDemo()[pri:0, instance:ApiTest.ApiDemo.RestApiTests@53aad5d5]" started-at="2020-12-23T19:04:26 IST" name="putDemo" finished-at="2020-12-23T19:04:26 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putDemo -->
+      </class> <!-- ApiTest.ApiDemo.RestApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
