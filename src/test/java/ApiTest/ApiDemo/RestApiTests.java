@@ -14,6 +14,7 @@ public class RestApiTests extends BaseActions {
 		System.out.println("Get");
 		System.out.println(res.statusCode());
 		System.out.println(res.getBody().asString());
+		
 	}
 
 	@Test
